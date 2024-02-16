@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+json_logs
+cypress/videos
+cypress/screenshots
+reports
+.DS_Store
+.idea
+downloads
+allure-results
+allure-report
+```
+node_modules

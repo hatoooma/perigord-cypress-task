@@ -1,4 +1,5 @@
 {
+  "home": "/",
   "inventory": "/inventory.html",
   "cart": "/cart.html",
   "checkout_info": "/checkout-step-one.html",

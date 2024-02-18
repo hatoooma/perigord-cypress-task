@@ -33,4 +33,4 @@ Feature: Checkout Process
     And I complete the checkout form with valid information
     And I click on the "continue" button
     And I click on the "finish" button
-    Then I should be on the "inventory" page
+    Then I should be on the "home" page
